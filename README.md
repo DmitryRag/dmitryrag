@@ -1,4 +1,7 @@
 
+<h1 align="center">Привет всем, я Дима</h1>
+<h3 align="center">Junior Frontend developer 🇷🇺</h3>
+
 ### Technology stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E35031?style=for-the-badge&logo=html5&logoColor=FFFFFF)
